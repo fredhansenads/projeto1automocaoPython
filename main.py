@@ -51,7 +51,7 @@ Quantidade de produtos vendidos: {qtde_produtos:,}
 
 Qualquer dúvida estou à disposição.
 Abs,
-Lira Python
+Fred Hansen
 """
 pyperclip.copy(texto)
 pyautogui.hotkey("ctrl", "v")
