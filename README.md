@@ -53,3 +53,5 @@ python main.py
 ## Autor
 
 Fred Hansen
+
+https://github.com/fredhansenads
